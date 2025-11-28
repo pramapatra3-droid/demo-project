@@ -1,2 +1,3 @@
 echo "welcome to the demo project"
-echo "edit"
+echo "edit file"
+edit 2
